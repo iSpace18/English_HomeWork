@@ -2,13 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #121212;
+    background-image: url(aesthetic-background-with-gradient-neon-led-light-effect.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
     color: white;
     transition: background-color 0.3s;
 }
 
 header {
-    background-color: #1f1f1f;
+    background-color: #1f1f1f8f;
     padding: 20px;
     text-align: center;
 }
